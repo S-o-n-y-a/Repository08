@@ -8,7 +8,7 @@ int main()
     //добавлю-ка комментарий-1
     cout << "ДЗ на 09-11-2023";
     cout << endl;
-    //Kомментарий new one
+    //Kомментарий main
     cout << "Add smth new";
     cout << endl;
 
